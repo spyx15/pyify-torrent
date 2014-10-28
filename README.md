@@ -9,3 +9,5 @@ if you press d, script download torrent file.
 this is me first script on github. any idea how to make this script more usefull
 
 thanks for any ideas :)
+
+spyx <ralochs2@gmail.com>
